@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Button renders with childrens 1`] = `
+<DocumentFragment>
+  <button
+    class="botao-reutilizavel"
+  >
+    qualquerConteudo
+  </button>
+</DocumentFragment>
+`;
